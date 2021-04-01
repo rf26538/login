@@ -1,0 +1,10 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Cormorant Unicase', serif;
+}
+
+h3 {
+    text-align: center;
+}
